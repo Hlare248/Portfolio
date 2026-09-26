@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hillary Ochieng Omondi | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <img src="assets/profile.jpg" alt="Profile Photo" class="profile-pic">
+      <h1>Hillary Ochieng Omondi</h1>
+      <p>AI Data Specialist | Writer | Team Lead</p>
+    </div>
+  </header>
+
+  <section id="about" class="container">
+    <h2>About Me</h2>
+    <p>BSc Industrial Biotechnology graduate with expertise in AI/ML data operations, data quality assurance, and professional writing. Passionate about career development and professional branding.</p>
+  </section>
+
+  <section id="skills" class="container">
+    <h2>Skills</h2>
+    <ul>
+      <li>AI/ML Data Operations</li>
+      <li>Data Quality Assurance</li>
+      <li>Computer Vision & Satellite Imaging</li>
+      <li>OSINT & Maritime Intelligence Research</li>
+      <li>Freelance Writing & Editing</li>
+    </ul>
+  </section>
+
+  <section id="projects" class="container">
+    <h2>Portfolio Projects</h2>
+    <div class="card">
+      <h3>AI Data Annotation Project</h3>
+      <p>Led a team to deliver high‑quality datasets for machine learning models.</p>
+    </div>
+    <div class="card">
+      <h3>Freelance Writing Portfolio</h3>
+      <p>Published articles and edited manuscripts for clients worldwide.</p>
+    </div>
+  </section>
+
+  <section id="contact" class="container">
+    <h2>Contact</h2>
+    <p>Email: hillary@example.com</p>
+    <p>LinkedIn: linkedin.com/in/hillary‑omondi</p>
+    <p>GitHub: github.com/yourusername</p>
+  </section>
+
+  <footer>
+    <p>© 2026 Hillary Ochieng Omondi</p>
+  </footer>
+</body>
+</html>
